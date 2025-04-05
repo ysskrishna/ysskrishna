@@ -22,6 +22,9 @@ I am Siva Sai Krishna, Software developer from  <img
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
 
 
 **Technologies**  
@@ -36,6 +39,8 @@ I am Siva Sai Krishna, Software developer from  <img
 ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?logo=python&logoColor=white&style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
@@ -52,6 +57,7 @@ I am Siva Sai Krishna, Software developer from  <img
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square)
 
 
 ## 📈 GitHub Stats

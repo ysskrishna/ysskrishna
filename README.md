@@ -1,10 +1,7 @@
-# Hi there 👋 
+#  👋 Hi there,  I'm Siva Sai Krishna!
 
-Welcome to my GitHub! 
-I am Siva Sai Krishna, Software developer from  <img
-  src="https://flagicons.lipis.dev/flags/4x3/in.svg"
-  width="15"
-  alt="India"> Bengalure, India.
+
+🚀 I'm a passionate Full Stack Developer, Founding Engineer, and an IITM graduate from 🇮🇳 Bengaluru, India, who loves building cutting-edge web and mobile applications.
 
 [![Website Badge](https://img.shields.io/badge/-bento.me/ysskrishna-000000?style=flat-square&logo=website&logoColor=white&link=https://bento.me/ysskrishna)](https://bento.me/ysskrishna)
 [![Linkedin Badge](https://img.shields.io/badge/-ysskrishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ysskrishna)](https://linkedin.com/in/ysskrishna)

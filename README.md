@@ -16,8 +16,9 @@ I am Siva Sai Krishna, Software developer from  <img
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ysskrishna&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true)
+![Github Stats Card](https://github-readme-stats.vercel.app/api?username=ysskrishna&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=default)
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ysskrishna&layout=compact)
+![Github Top languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ysskrishna&layout=compact&theme=default)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ysskrishna.ysskrishna)

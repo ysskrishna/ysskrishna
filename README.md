@@ -1,9 +1,16 @@
-#  👋 Hi there,  I'm Siva Sai Krishna!
+#  👋 Hi there, I'm Siva Sai Krishna! (ysskrishna)
 
+🚀 **Backend-Heavy Full Stack Developer** | **Founding Engineer** | **IITM Graduate** | **Bengaluru, India** 🇮🇳
 
-🚀 I'm a dynamic Full Stack Developer, Founding Engineer, and an IITM graduate from <img
-   src="https://flagicons.lipis.dev/flags/4x3/in.svg"
-   width="15" alt="India"> Bengaluru, India, who loves building cutting-edge web and mobile applications.
+I build robust APIs and scalable backend systems that power modern web applications. With deep expertise in Python (FastAPI, Flask), Node.js, and cloud infrastructure, I architect solutions that handle real-world scale and complexity.
+
+**What I build:**
+- 🔧 **High-performance APIs** - RESTful services, GraphQL endpoints, and microservices
+- 🗄️ **Data-driven backends** - PostgreSQL, MongoDB, Redis, Elasticsearch integrations
+- ☁️ **Cloud-native systems** - AWS, Docker, CI/CD pipelines, and serverless architectures
+- 🚀 **Scalable solutions** - Message queues, caching strategies, and performance optimization
+
+**Currently:** Building backend systems, exploring AI/ML integration, and contributing to open-source projects.
 
 [![Website Badge](https://img.shields.io/badge/-ysskrishna/portfolio-000000?style=flat-square&logo=website&logoColor=white&link=https://ysskrishna.vercel.app)](https://ysskrishna.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-ysskrishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ysskrishna)](https://linkedin.com/in/ysskrishna)

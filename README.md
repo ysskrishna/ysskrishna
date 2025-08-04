@@ -5,7 +5,7 @@
    src="https://flagicons.lipis.dev/flags/4x3/in.svg"
    width="15" alt="India"> Bengaluru, India, who loves building cutting-edge web and mobile applications.
 
-[![Website Badge](https://img.shields.io/badge/-bento.me/ysskrishna-000000?style=flat-square&logo=website&logoColor=white&link=https://bento.me/ysskrishna)](https://bento.me/ysskrishna)
+[![Website Badge](https://img.shields.io/badge/-ysskrishna/portfolio-000000?style=flat-square&logo=website&logoColor=white&link=https://ysskrishna.vercel.app)](https://ysskrishna.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-ysskrishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ysskrishna)](https://linkedin.com/in/ysskrishna)
 [![Github Badge](https://img.shields.io/badge/-ysskrishna-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ysskrishna)](https://github.com/ysskrishna)
 [![Youtube Badge](https://img.shields.io/badge/-@ysskrishna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ysskrishna)](https://www.youtube.com/@ysskrishna)

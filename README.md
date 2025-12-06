@@ -1,16 +1,18 @@
-#  👋 Hi there, I'm Siva Sai Krishna! (ysskrishna)
+# 👋 Hi there, I'm Siva Sai Krishna! (ysskrishna)
 
-🚀 **Backend-Heavy Full Stack Developer** | **Founding Engineer** | **IITM Graduate** | **Bengaluru, India** 🇮🇳
+🚀 **AI-Focused Full Stack Developer** | **Founding Engineer** | **IITM Graduate** | **Bengaluru, India** 🇮🇳
 
-I build robust APIs and scalable backend systems that power modern web applications. With deep expertise in Python (FastAPI, Flask), Node.js, and cloud infrastructure, I architect solutions that handle real-world scale and complexity.
+I build AI-powered applications and robust backend systems that power modern web experiences. With deep expertise in AI/ML integration, Python (FastAPI, Flask), Node.js, and cloud infrastructure, I architect intelligent solutions that combine cutting-edge AI capabilities with scalable engineering.
 
 **What I build:**
+
+- 🤖 **AI-Powered Applications** - LLM integrations, RAG systems, AI video dubbing, intelligent chatbots, and evaluation frameworks
 - 🔧 **High-performance APIs** - RESTful services, GraphQL endpoints, and microservices
-- 🗄️ **Data-driven backends** - PostgreSQL, MongoDB, Redis, Elasticsearch integrations
+- 🗄️ **Data-driven backends** - PostgreSQL, MongoDB, Redis, Elasticsearch, ChromaDB integrations
 - ☁️ **Cloud-native systems** - AWS, Docker, CI/CD pipelines, and serverless architectures
 - 🚀 **Scalable solutions** - Message queues, caching strategies, and performance optimization
 
-**Currently:** Building backend systems, exploring AI/ML integration, and contributing to open-source projects.
+**Currently:** Building AI-powered applications, robust backend systems, and contributing to open-source projects.
 
 [![Website Badge](https://img.shields.io/badge/-ysskrishna/portfolio-000000?style=flat-square&logo=website&logoColor=white&link=https://ysskrishna.vercel.app)](https://ysskrishna.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-ysskrishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ysskrishna)](https://linkedin.com/in/ysskrishna)
@@ -19,7 +21,31 @@ I build robust APIs and scalable backend systems that power modern web applicati
 [![Product Hunt Badge](https://img.shields.io/badge/-@ysskrishna-orange?style=flat-square&logo=producthunt&logoColor=white&link=https://www.producthunt.com/@ysskrishna)](https://www.producthunt.com/@ysskrishna)
 [![Gmail Badge](https://img.shields.io/badge/-sivasaikrishnassk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivasaikrishnassk@gmail.com)](mailto:sivasaikrishnassk@gmail.com)
 
+## 🤖 Featured AI Projects
 
+**AI Video & Media**
+
+- 🎬 **[AI Video Dub Generator](https://github.com/ysskrishna/ai-video-dub-generator)** - AI-driven platform for seamless video dubbing across languages using Deepgram, OpenAI, and ElevenLabs
+- 📊 **[AI PPT Slide Generator](https://github.com/ysskrishna/ai-ppt-slide-generator)** - AI-powered PowerPoint presentation generator using Google Gemini
+
+**AI Education & Healthcare**
+
+- 📚 **[AI Math Tutor](https://github.com/ysskrishna/ai-math-tutor)** - Intelligent AI-powered math tutor with step-by-step solutions using LangChain and OpenAI
+- 🏥 **[AI Healthcare Assistant](https://github.com/ysskrishna/ai-healthcare-assistant)** - Practice medical communication with AI-powered text & voice feedback using Google Gemini
+
+**AI Chatbots & RAG**
+
+- 🤖 **[AI Support Bot](https://github.com/ysskrishna/ai-support-bot)** - Full-stack RAG-powered chatbot with dynamic knowledgebase loading using OpenAI and ChromaDB
+
+## 🛠️ Tools & Published Packages
+
+- 🔒 **[shai-hulud-detector](https://pypi.org/project/shai-hulud-detector/)** - CLI security scanner that detects GitHub accounts compromised by the "Sha1-Hulud: The Second Coming" npm supply-chain worm. Features concurrent scanning, dual detection methods, and color-coded output.
+
+- 🛠️ **[nestedutils](https://pypi.org/project/nestedutils/)** - Python utility package for working with nested data structures.
+
+- 🗄️ **[dbconvert](https://pypi.org/project/dbconvert/)** - CLI and GUI tool to convert PostgreSQL or MySQL databases to SQLite. Provides both command-line interface and user-friendly graphical interface built with Tkinter.
+
+- 📁 **[Directory Printer](https://github.com/ysskrishna/directory-printer)** - Cross-platform GUI application for viewing and exporting directory structures. Features interactive directory selection, tree visualization, smart file filtering using .gitignore patterns, clipboard export, multi-language support, and cross-platform compatibility (Windows, Linux, macOS). Built with Python and Tkinter.
 
 ## 🔧 Tech Stack
 
@@ -32,10 +58,10 @@ I build robust APIs and scalable backend systems that power modern web applicati
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
 
-
 **Technologies**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
@@ -47,6 +73,14 @@ I build robust APIs and scalable backend systems that power modern web applicati
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+
+**AI/ML Technologies**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square)
+![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=google&logoColor=white&style=flat-square)
+![Deepgram](https://img.shields.io/badge/-Deepgram-0F172A?logo=deepgram&logoColor=white&style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?logo=elevenlabs&logoColor=white&style=flat-square)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
@@ -54,8 +88,8 @@ I build robust APIs and scalable backend systems that power modern web applicati
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-000000?logo=chromadb&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
@@ -67,12 +101,10 @@ I build robust APIs and scalable backend systems that power modern web applicati
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
-
 ## 📈 GitHub Stats
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=ysskrishna&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=default)
 
 ![Github Top languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ysskrishna&layout=compact&theme=default)
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ysskrishna.ysskrishna)

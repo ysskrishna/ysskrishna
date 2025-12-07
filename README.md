@@ -41,7 +41,9 @@ I build AI-powered applications and robust backend systems that power modern web
 
 - 🔒 **[shai-hulud-detector](https://pypi.org/project/shai-hulud-detector/)** - CLI security scanner that detects GitHub accounts compromised by the "Sha1-Hulud: The Second Coming" npm supply-chain worm. Features concurrent scanning, dual detection methods, and color-coded output.
 
-- 🛠️ **[nestedutils](https://pypi.org/project/nestedutils/)** - Python utility package for working with nested data structures.
+- 🛠️ **[nestedutils](https://pypi.org/project/nestedutils/)** - The lightweight Python library for safe, simple, dot-notation access to nested dicts and lists. Effortlessly get, set, and delete values deep in your complex JSON, API responses, and config files without verbose error-checking or handling KeyError exceptions.
+
+- 🔗 **[social-links](https://pypi.org/project/social-links/)** - A lightweight, zero-dependency Python library for detecting, validating, and sanitizing social media profile URLs. Supports 25+ platforms out of the box with automatic URL normalization, username extraction, and customizable regex patterns for extensibility.
 
 - 🗄️ **[dbconvert](https://pypi.org/project/dbconvert/)** - CLI and GUI tool to convert PostgreSQL or MySQL databases to SQLite. Provides both command-line interface and user-friendly graphical interface built with Tkinter.
 

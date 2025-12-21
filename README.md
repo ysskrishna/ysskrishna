@@ -20,6 +20,8 @@ I build AI-powered applications and robust backend systems that power modern web
 [![Youtube Badge](https://img.shields.io/badge/-@ysskrishna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ysskrishna)](https://www.youtube.com/@ysskrishna)
 [![Product Hunt Badge](https://img.shields.io/badge/-@ysskrishna-orange?style=flat-square&logo=producthunt&logoColor=white&link=https://www.producthunt.com/@ysskrishna)](https://www.producthunt.com/@ysskrishna)
 [![Gmail Badge](https://img.shields.io/badge/-sivasaikrishnassk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivasaikrishnassk@gmail.com)](mailto:sivasaikrishnassk@gmail.com)
+[![Patreon Badge](https://img.shields.io/badge/-@ysskrishna-FF424D?style=flat-square&logo=patreon&logoColor=white&link=https://www.patreon.com/cw/ysskrishna)](https://www.patreon.com/cw/ysskrishna)
+[![Substack Badge](https://img.shields.io/badge/-@ysskrishna-FF6719?style=flat-square&logo=substack&logoColor=white&link=https://ysskrishna.substack.com/)](https://ysskrishna.substack.com/)
 
 ## 🤖 Featured AI Projects
 
@@ -48,6 +50,8 @@ I build AI-powered applications and robust backend systems that power modern web
 - 🗄️ **[dbconvert](https://pypi.org/project/dbconvert/)** - CLI and GUI tool to convert PostgreSQL or MySQL databases to SQLite. Provides both command-line interface and user-friendly graphical interface built with Tkinter.
 
 - 📁 **[Directory Printer](https://github.com/ysskrishna/directory-printer)** - Cross-platform GUI application for viewing and exporting directory structures. Features interactive directory selection, tree visualization, smart file filtering using .gitignore patterns, clipboard export, multi-language support, and cross-platform compatibility (Windows, Linux, macOS). Built with Python and Tkinter.
+
+- 📊 **[pypi-package-stats](https://github.com/ysskrishna/pypi-package-stats)** - A CLI for PyPI package stats and download analytics, built on the official pypistats API. Fetch daily, weekly, monthly, and 180-day downloads, Python version and OS breakdowns, package metadata, with flexible output (JSON or Rich console tables) and smart disk caching.
 
 ## 🔧 Tech Stack
 

@@ -109,8 +109,8 @@ I build AI-powered applications and robust backend systems that power modern web
 
 ## 📈 GitHub Stats
 
-![Github Stats Card](https://github-readme-stats.vercel.app/api?username=ysskrishna&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=default)
+![Github Stats Card](https://github-readme-stats-fast.vercel.app/api?username=ysskrishna&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=default)
 
-![Github Top languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ysskrishna&layout=compact&theme=default)
+![Github Top languages Card](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ysskrishna&layout=compact&theme=default)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ysskrishna.ysskrishna)

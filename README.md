@@ -45,13 +45,23 @@ I build AI-powered applications and robust backend systems that power modern web
 
 - 🛠️ **[nestedutils](https://pypi.org/project/nestedutils/)** - The lightweight Python library for safe, simple, dot-notation access to nested dicts and lists. Effortlessly get, set, and delete values deep in your complex JSON, API responses, and config files without verbose error-checking or handling KeyError exceptions.
 
-- 🔗 **[social-links](https://pypi.org/project/social-links/)** - A lightweight, zero-dependency Python library for detecting, validating, and sanitizing social media profile URLs. Supports 25+ platforms out of the box with automatic URL normalization, username extraction, and customizable regex patterns for extensibility.
+- 🔗 **[social-links](https://pypi.org/project/social-links/)** - Python library to validate, sanitize, and detect social media URLs. Support for LinkedIn, Instagram, TikTok, X/Twitter, GitHub, Facebook, YouTube, and 65+ platforms. Features automatic URL normalization and zero dependencies. Easy to use, regex-powered, and customizable.
 
 - 🗄️ **[dbconvert](https://pypi.org/project/dbconvert/)** - CLI and GUI tool to convert PostgreSQL or MySQL databases to SQLite. Provides both command-line interface and user-friendly graphical interface built with Tkinter.
 
 - 📁 **[Directory Printer](https://github.com/ysskrishna/directory-printer)** - Cross-platform GUI application for viewing and exporting directory structures. Features interactive directory selection, tree visualization, smart file filtering using .gitignore patterns, clipboard export, multi-language support, and cross-platform compatibility (Windows, Linux, macOS). Built with Python and Tkinter.
 
 - 📊 **[pypi-package-stats](https://github.com/ysskrishna/pypi-package-stats)** - A CLI for PyPI package stats and download analytics, built on the official pypistats API. Fetch daily, weekly, monthly, and 180-day downloads, Python version and OS breakdowns, package metadata, with flexible output (JSON or Rich console tables) and smart disk caching.
+
+- 💬 **[quotes-convert](https://github.com/ysskrishna/quotes-convert)** - Convert matching double-quotes to single-quotes or vice versa in strings and streams.
+
+- 🛤️ **[unused-path](https://github.com/ysskrishna/unused-path)** - Generate unused file and directory paths by auto-incrementing numeric suffixes. Similar to how browsers handle duplicate downloads.
+
+- 🧹 **[strip-bom](https://github.com/ysskrishna/strip-bom)** - Strip UTF-8 byte order mark (BOM) from strings, bytes, streams, and files. 
+
+- 📦 **[container-detect](https://github.com/ysskrishna/container-detect)** - Detect if your Python process is running inside a container. Supports Docker, Podman, Kubernetes, containerd, LXC, and more. Supports cached results with optional refresh.
+
+- 🐳 **[docker-detector](https://github.com/ysskrishna/docker-detector)** - Detect if your Python process is running inside a Docker container. Supports cached results with optional refresh.
 
 ## 🔧 Tech Stack
 

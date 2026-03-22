@@ -48,8 +48,8 @@ I build AI-powered applications and robust backend systems that power modern web
 | 🧹 **[strip-bom](https://github.com/ysskrishna/strip-bom)** | Strip UTF-8 byte order mark (BOM) from strings, bytes, streams, and files. |
 | 📦 **[container-detect](https://github.com/ysskrishna/container-detect)** | Detect if your Python process is running inside a container. Supports Docker, Podman, Kubernetes, containerd, LXC, and more. Supports cached results with optional refresh. |
 | 🐳 **[docker-detector](https://github.com/ysskrishna/docker-detector)** | Detect if your Python process is running inside a Docker container. Supports cached results with optional refresh. |
-| ⚙️ **[pypi-package-stats-action](https://github.com/ysskrishna/pypi-package-stats-action)** | GitHub Action to fetch PyPI package download statistics and metadata in workflows. Step outputs, JSON file, and job summary; pairs with the pypi-package-stats library. |
-| 📄 **[gitingest-action](https://github.com/ysskrishna/gitingest-action)** | GitHub Action to analyze Git repositories and generate text digests (summary, tree, concatenated content) optimized for LLMs. Powered by gitingest. |
+| ⚙️ **[pypi-package-stats-action](https://github.com/marketplace/actions/pypi-package-stats)** | GitHub Action to fetch PyPI package download statistics and metadata in workflows. Step outputs, JSON file, and job summary; pairs with the pypi-package-stats library. |
+| 📄 **[gitingest-action](https://github.com/marketplace/actions/gitingest)** | GitHub Action to analyze Git repositories and generate text digests (summary, tree, concatenated content) optimized for LLMs. Powered by gitingest. |
 
 ## 🔧 Tech Stack
 

@@ -50,6 +50,7 @@ I build AI-powered applications and robust backend systems that power modern web
 | 🐳 **[docker-detector](https://github.com/ysskrishna/docker-detector)** | Detect if your Python process is running inside a Docker container. Supports cached results with optional refresh. |
 | ⚙️ **[pypi-package-stats-action](https://github.com/marketplace/actions/pypi-package-stats)** | GitHub Action to fetch PyPI package download statistics and metadata in workflows. Step outputs, JSON file, and job summary; pairs with the pypi-package-stats library. |
 | 📄 **[gitingest-action](https://github.com/marketplace/actions/gitingest)** | GitHub Action to analyze Git repositories and generate text digests (summary, tree, concatenated content) optimized for LLMs. Powered by gitingest. |
+| 📑 **[google-sheets-tab-manager](https://www.ysskrishna.space/google-sheets-tab-manager/)** | Google Sheets add-on for managing multiple tabs at once - delete, hide, rename, color, and sort with ease |
 
 ## 🔧 Tech Stack
 

@@ -29,6 +29,7 @@ I build AI-powered applications and robust backend systems that power modern web
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| 🧠 **AI Agent Skills** | Curated agent skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and similar tools | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-agent-skills) |
 | 🎬 **AI Video Dub Generator** | AI-driven platform for seamless video dubbing across languages using Deepgram, OpenAI, and ElevenLabs | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-video-dub-generator) |
 | 📊 **AI PPT Slide Generator** | AI-powered PowerPoint presentation generator using Google Gemini | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-ppt-slide-generator) |
 | 🤖 **AI Support Bot** | Full-stack RAG-powered chatbot with dynamic knowledgebase loading using OpenAI and ChromaDB | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-support-bot) |

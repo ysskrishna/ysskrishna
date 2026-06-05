@@ -29,6 +29,7 @@ I build AI-powered applications and robust backend systems that power modern web
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| 🧪 **Awesome LLM Experiments** | Hands-on Python examples for LLM apps: RAG, embeddings, vector search, Chroma, LangChain, multilingual & multimodal retrieval, and RAGAS evaluation | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/awesome-llm-experiments) |
 | 🎮 **AI Game Playtesting Agent** | Autonomous agent that plays 2048 in Chromium via Playwright, reads the board with GPT-4o vision, and writes structured playtesting reports using LangGraph | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-game-playtesting-agent) |
 | 🧠 **AI Agent Skills** | Structured thinking skills for AI agents: brainstorming, decision support, systems thinking, and strategy. Built for Claude Code & Cursor | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-agent-skills) |
 | 🎬 **AI Video Dub Generator** | AI-driven platform for seamless video dubbing across languages using Deepgram, OpenAI, and ElevenLabs | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-video-dub-generator) |

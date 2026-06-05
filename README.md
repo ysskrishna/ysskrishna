@@ -35,7 +35,6 @@ I build AI-powered applications and robust backend systems that power modern web
 | 📊 **AI PPT Slide Generator** | AI-powered PowerPoint presentation generator using Google Gemini | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-ppt-slide-generator) |
 | 🤖 **AI Support Bot** | Full-stack RAG-powered chatbot with dynamic knowledgebase loading using OpenAI and ChromaDB | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-support-bot) |
 | 🏥 **AI Healthcare Assistant** | Practice medical communication with AI-powered text & voice feedback using Google Gemini | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-healthcare-assistant) |
-| 📚 **AI Math Tutor** | Intelligent AI-powered math tutor with step-by-step solutions using LangChain and OpenAI | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ysskrishna/ai-math-tutor) |
 
 ## 🛠️ Tools & Published Packages
 

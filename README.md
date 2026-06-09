@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Siva Sai Krishna! (ysskrishna)
+# 👋 Hi there, I'm Siva Sai Krishna Yenugu! (ysskrishna)
 
 🚀 **AI-Focused Full Stack Developer** | **Founding Engineer** | **IITM Graduate** | **Bengaluru, India** 🇮🇳
 

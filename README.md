@@ -17,6 +17,7 @@ I build AI agents, RAG systems, and robust backend services that power modern we
 
 [![Website Badge](https://img.shields.io/badge/-ysskrishna/portfolio-000000?style=flat-square&logo=website&logoColor=white&link=https://ysskrishna.vercel.app)](https://ysskrishna.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-ysskrishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ysskrishna)](https://linkedin.com/in/ysskrishna)
+[![X Badge](https://img.shields.io/badge/-@sivasaissk-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/sivasaissk)](https://x.com/sivasaissk)
 [![Github Badge](https://img.shields.io/badge/-ysskrishna-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ysskrishna)](https://github.com/ysskrishna)
 [![npm Badge](https://img.shields.io/badge/-@ysskrishna-CB3837?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/~ysskrishna)](https://www.npmjs.com/~ysskrishna)
 [![Youtube Badge](https://img.shields.io/badge/-@ysskrishna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ysskrishna)](https://www.youtube.com/@ysskrishna)

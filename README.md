@@ -14,7 +14,7 @@ I build AI agents and the infrastructure around them: tools, memory, retrieval, 
 
 **Currently:** Shipping agent features as a founding engineer, and publishing skills and MCP tools in the open.
 
-[![Website Badge](https://img.shields.io/badge/-ysskrishna/portfolio-000000?style=flat-square&logo=website&logoColor=white&link=https://ysskrishna.vercel.app)](https://ysskrishna.vercel.app)
+[![Website Badge](https://img.shields.io/badge/-ysskrishna/portfolio-000000?style=flat-square&logo=website&logoColor=white&link=https://ysskrishna.space)](https://ysskrishna.space)
 [![Linkedin Badge](https://img.shields.io/badge/-ysskrishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ysskrishna)](https://linkedin.com/in/ysskrishna)
 [![X Badge](https://img.shields.io/badge/-@sivasaissk-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/sivasaissk)](https://x.com/sivasaissk)
 [![Github Badge](https://img.shields.io/badge/-ysskrishna-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ysskrishna)](https://github.com/ysskrishna)
@@ -22,7 +22,7 @@ I build AI agents and the infrastructure around them: tools, memory, retrieval, 
 [![Youtube Badge](https://img.shields.io/badge/-@ysskrishna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ysskrishna)](https://www.youtube.com/@ysskrishna)
 [![Product Hunt Badge](https://img.shields.io/badge/-@ysskrishna-orange?style=flat-square&logo=producthunt&logoColor=white&link=https://www.producthunt.com/@ysskrishna)](https://www.producthunt.com/@ysskrishna)
 [![Gmail Badge](https://img.shields.io/badge/-sivasaikrishnassk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sivasaikrishnassk@gmail.com)](mailto:sivasaikrishnassk@gmail.com)
-[![Patreon Badge](https://img.shields.io/badge/-@ysskrishna-FF424D?style=flat-square&logo=patreon&logoColor=white&link=https://www.patreon.com/cw/ysskrishna)](https://www.patreon.com/cw/ysskrishna)
+[![Patreon Badge](https://img.shields.io/badge/-@ysskrishna-FF424D?style=flat-square&logo=patreon&logoColor=white&link=https://www.patreon.com/ysskrishna)](https://www.patreon.com/ysskrishna)
 [![Substack Badge](https://img.shields.io/badge/-@ysskrishna-FF6719?style=flat-square&logo=substack&logoColor=white&link=https://ysskrishna.substack.com/)](https://ysskrishna.substack.com/)
 
 ## 🤖 Featured AI Projects
